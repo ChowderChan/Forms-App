@@ -1,0 +1,15 @@
+D:\Proiecte VS\AN 2\Proiect PAW\bin\Debug\Proiect PAW.exe.config
+D:\Proiecte VS\AN 2\Proiect PAW\bin\Debug\Proiect PAW.exe
+D:\Proiecte VS\AN 2\Proiect PAW\bin\Debug\Proiect PAW.pdb
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect PAW.csproj.AssemblyReference.cache
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect PAW.csproj.SuggestedBindingRedirects.cache
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect_PAW.Form1.resources
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect PAW.csproj.GenerateResource.cache
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect PAW.csproj.CoreCompileInputs.cache
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect PAW.exe
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect PAW.pdb
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect_PAW.Form_Grafic.resources
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect_PAW.Login.resources
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect_PAW.Form_Login.resources
+D:\Proiecte VS\AN 2\Proiect PAW\obj\Debug\Proiect_PAW.Form_Baza_De_Date.resources
